@@ -1,0 +1,17 @@
+# Common subdomains; edit / extend as needed
+www
+api
+dev
+test
+staging
+m
+mail
+ftp
+admin
+beta
+shop
+blog
+support
+portal
+ingress
+dashboard
